@@ -1,5 +1,5 @@
 **The follower README.md has versions in Englinsh(USA)  and Brazilian Portuguese **
-**English Version <img src='./united-states-of-america-united-states-svgrepo-com.svg' style="width: 35px;">
+**English Version <img src='./united-states-of-america-united-states-svgrepo-com.svg' style="width: 15px;">
 **Title:** Simple Iphone Functionality, Music Player, and Web Browser Simulator
 
 **Description:**
