@@ -78,7 +78,7 @@ This project is distributed under the [MIT License](https://opensource.org/licen
 * Explore advanced Java concepts like inheritance, polymorphism, and exception handling to create more complex functionality.
 * ## Leia-me para o Repositório GitHub
 * 
-**VERSÃO EM PORTUGUÊS <img src='./flag-for-brazil-svgrepo-com.svg' style="width: 35px;">**
+**VERSÃO EM PORTUGUÊS <img src='./flag-for-brazil-svgrepo-com.svg' style="width: 15px;">**
   
 **Título:** Simulador de Funcionalidades Básicas de Celular, Tocador de Música e Navegador Web
 
