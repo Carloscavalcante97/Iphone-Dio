@@ -6,7 +6,12 @@
 
 This project simulates basic functionalities of a phone, music player, and web browser. It demonstrates the creation of packages, classes, methods, and object instantiation in Java.
 
+
+**Diagrams:**
+<img src="Classe-Uml-Iphone.svg"/>
+
 **Features:**
+
 
 * **Calls Package (Calls.java):**
     * `cellPhone()` method simulates a phone call sequence:
@@ -85,6 +90,10 @@ This project is distributed under the [MIT License](https://opensource.org/licen
 **Descrição:**
 
 Este projeto simula funcionalidades básicas de um celular, tocador de música e navegador web. Ele demonstra a criação de pacotes, classes, métodos e instanciação de objetos em Java.
+
+**Diagrama:**
+<img src="Classe-Uml-Iphone.svg"/>
+
 
 **Funcionalidades:**
 
