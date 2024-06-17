@@ -1,4 +1,5 @@
-**The follower README.md has versions in Englinsh(USA) and Brazilian Portuguese**
+**The follower README.md has versions in Englinsh(USA)  and Brazilian Portuguese **
+**English Version <img src='./united-states-of-america-united-states-svgrepo-com.svg'>
 **Title:** Simple Iphone Functionality, Music Player, and Web Browser Simulator
 
 **Description:**
@@ -77,7 +78,7 @@ This project is distributed under the [MIT License](https://opensource.org/licen
 * Explore advanced Java concepts like inheritance, polymorphism, and exception handling to create more complex functionality.
 * ## Leia-me para o Repositório GitHub
 * 
-**VERSÃO EM PORTUGUÊS**
+**VERSÃO EM PORTUGUÊS <img src='./flag-for-brazil-svgrepo-com.svg'>**
   
 **Título:** Simulador de Funcionalidades Básicas de Celular, Tocador de Música e Navegador Web
 
